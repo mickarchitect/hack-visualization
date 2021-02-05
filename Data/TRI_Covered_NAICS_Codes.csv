@@ -1,0 +1,410 @@
+﻿Code,Description
+111998,All Other Miscellaneous Crop Farming (Limited to facilities primarily engaged in reducing maple sap to maple syrup)
+113310,Logging
+211130,Natural Gas Extraction (limited to facilities that recover sulfur from natural gas)
+212111,Bituminous Coal and Lignite Surface Mining
+212112,Bituminous Coal Underground Mining
+212113,Anthracite Mining
+212221,Gold Ore Mining
+212222,Silver Ore Mining
+212230,"Copper, Nickel, Lead, and Zinc Mining"
+212299,All Other Metal Ore Mining
+212324,Kaolin and Ball Clay Mining (limited to facilities operating without a mine or quarry and that are primarily engaged in beneficiating kaolin and clay)
+212325,Clay and Ceramic and Refractory Minerals Mining (limited to facilities operating without a mine or quarry and that are primarily engaged in beneficiating clay and ceramic and refractory minerals)
+212393,Other Chemical and Fertilizer Mineral Mining (limited to facilities operating without a mine or quarry that are primarily engaged in beneficiating chemical or fertilizer mineral raw materials)
+212399,All Other Nonmetallic Mineral Mining (limited to facilities operating without a mine or quarry that are primarily engaged in beneficiating nonmetallic minerals)
+221111,Hydroelectric Power Generation
+221112,Fossil Fuel Electric Power Generation
+221113,Nuclear Electric Power Generation
+221118,Other Electric Power Generation
+221121,Electric Bulk Power Transmission and Control
+221122,Electric Power Distribution
+221330,"Steam and Air Conditioning Supply (Limited to facilities engaged in providing combinations of electric, gas and other services, not elsewhere classified (NEC) (previously classified under SIC 4939, Combination Utility Services Not Elsewhere Classified.)"
+311111,Dog and Cat Food Manufacturing
+311119,Other Animal Food Manufacturing (except facilities primarily engaged in Custom Grain Grinding for Animal Feed)
+311211,Flour Milling
+311212,Rice Milling
+311213,Malt Manufacturing
+311221,Wet Corn Milling
+311224,Soybean and Other Oilseed Processing
+311225,Fats and Oils Refining and Blending
+311230,Breakfast Cereal Manufacturing
+311313,Beet Sugar Manufacturing
+311314,Cane Sugar Manufacturing
+311340,"Nonchocolate Confectionery Manufacturing (except facilities primarily engaged in the retail sale of candy, nuts, popcorn and other confections not for immediate consumption made on the premises)"
+311351,Chocolate and Confectionery Manufacturing from Cacao Beans
+311352,Confectionery Manufacturing from Purchased Chocolate
+311411,"Frozen Fruit, Juice, and Vegetable Manufacturing"
+311412,Frozen Specialty Food Manufacturing
+311421,Fruit and Vegetable Canning
+311422,Specialty Canning
+311423,Dried and Dehydrated Food Manufacturing
+311511,Fluid Milk Manufacturing
+311512,Creamery Butter Manufacturing
+311513,Cheese Manufacturing
+311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing"
+311520,Ice Cream and Frozen Dessert Manufacturing
+311611,Animal (except Poultry) Slaughtering (except for facilities primarily engaged in Custom Slaughtering for individuals)
+311612,Meat Processed from Carcasses [except for facilities primarily engaged in the cutting up and resale of purchased fresh carcasses for the trade (including boxed beef)]
+311613,Rendering and Meat Byproduct Processing
+311615,Poultry Processing
+311710,Seafood Product Preparation and Packaging
+311812,Commercial Bakeries
+311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing"
+311821,Cookie and Cracker Manufacturing
+311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"
+311830,Tortilla Manufacturing
+311911,Roasted Nuts and Peanut Butter Manufacturing
+311919,Other Snack Food Manufacturing
+311920,Coffee and Tea Manufacturing
+311930,Flavoring Syrup and Concentrate Manufacturing
+311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"
+311942,Spice and Extract Manufacturing
+311991,Perishable Prepared Food Manufacturing
+311999,All Other Miscellaneous Food Manufacturing
+312111,Soft Drink Manufacturing
+312112,Bottled Water Manufacturing (except facilities primarily engaged in bottling mineral or spring water)
+312113,Ice Manufacturing
+312120,Breweries
+312130,Wineries
+312140,Distilleries
+312210,Tobacco Stemming and Redrying
+312230,Tobacco Manufacturing
+313110,"Fiber, Yarn, and Thread Mills"
+313210,Broadwoven Fabric Mills
+313220,Narrow Fabric Mills and Schiffli Machine Embroidery
+313230,Nonwoven Fabric Mills
+313241,Knit Fabric Mills
+313310,Textile and Fabric Finishing Mills (except facilities primarily engaged in converting broadwoven piece goods and broadwoven textiles and facilities primarily engaged in sponging fabric for tailors and dressmakers and facilities primarily engaged in converting narrow woven textiles and narrow woven piece goods)
+313320,Fabric Coating Mills
+314110,Carpet and Rug Mills
+314120,Curtain and Linen Mills (except facilities primarily engaged in making custom drapery for retail sale)
+314910,Textile Bag and Canvas Mills
+314994,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"
+314999,"All Other Miscellaneous Textile Product Mills (except facilities engaged in binding carpets and rugs for the trade, carpet cutting and binding, and embroidering on textile products (except apparel) for the trade)"
+315110,Hosiery and Sock Mills
+315190,Other Apparel Knitting Mills
+315210,Cut and Sew Apparel Contractors
+315220,"Men’s and Boys’ Cut and Sew Apparel Manufacturing (except custom tailors primarily engaged in making and selling men’s and boy’s suits, cut and sewn from purchased fabric)"
+315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+315280,Other Cut and Sew Apparel Manufacturing
+315990,Apparel Accessories and Other Apparel Manufacturing
+316110,Leather and Hide Tanning and Finishing
+316210,Footwear Manufacturing
+316992,Women’s Handbag and Purse Manufacturing
+316998,All Other Leather Good and Allied Product Manufacturing
+321113,Sawmills
+321114,Wood Preservation
+321211,Hardwood Veneer and Plywood Manufacturing
+321212,Softwood Veneer and Plywood Manufacturing
+321213,Engineered Wood Member (except Truss) Manufacturing
+321214,Truss Manufacturing
+321219,Reconstituted Wood Product Manufacturing
+321911,Wood Window and Door Manufacturing
+321912,"Cut Stock, Resawing Lumber, and Planing"
+321918,Other Millwork (including Flooring)
+321920,Wood Container and Pallet Manufacturing
+321991,Manufactured Home (Mobile Home) Manufacturing
+321992,Prefabricated Wood Building Manufacturing
+321999,All Other Miscellaneous Wood Product Manufacturing
+322110,Pulp Mills
+322121,Paper (except Newsprint) Mills
+322122,Newsprint Mills
+322130,Paperboard Mills
+322211,Corrugated and Solid Fiber Box Manufacturing
+322212,Folding Paperboard Box Manufacturing
+322219,Other Paperboard Container Manufacturing
+322220,Paper Bag and Coated and Treated Paper Manufacturing
+322230,Stationery Product Manufacturing
+322291,Sanitary Paper Product Manufacturing
+322299,All Other Converted Paper Product Manufacturing
+323111,"Commercial Printing (Except Screen and Books) (except facilities primarily engaged in reproducing text, drawings, plans, maps, or other copy by blueprinting, photocopying, mimeographing, or other methods of duplication other than printing or microfilming (i.e., instant printing)"
+323113,Commercial Screen Printing
+323117,Books Printing
+323120,Support Activities for Printing
+324110,Petroleum Refineries
+324121,Asphalt Paving Mixture and Block Manufacturing
+324122,Asphalt Shingle and Coating Materials Manufacturing
+324191,Petroleum Lubricating Oil and Grease Manufacturing
+324199,All Other Petroleum and Coal Products Manufacturing
+325110,Petrochemical Manufacturing
+325120,Industrial Gas Manufacturing
+325130,Synthetic Dye and Pigment Manufacturing
+325180,Other Basic Inorganic Chemical Manufacturing
+325193,Ethyl Alcohol Manufacturing
+325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing"
+325199,All Other Basic Organic Chemical Manufacturing
+325211,Plastics Material and Resin Manufacturing
+325212,Synthetic Rubber Manufacturing
+325220,Artificial and Synthetic Fibers and Filaments Manufacturing
+325311,Nitrogenous Fertilizer Manufacturing
+325312,Phosphatic Fertilizer Manufacturing
+325314,Fertilizer (Mixing Only) Manufacturing
+325320,Pesticide and Other Agricultural Chemical Manufacturing
+325411,Medicinal and Botanical Manufacturing
+325412,Pharmaceutical Preparation Manufacturing
+325413,In-Vitro Diagnostic Substance Manufacturing
+325414,Biological Product (except Diagnostic) Manufacturing
+325510,Paint and Coating Manufacturing
+325520,Adhesive Manufacturing
+325611,Soap and Other Detergent Manufacturing
+325612,Polish and Other Sanitation Good Manufacturing
+325613,Surface Active Agent Manufacturing
+325620,Toilet Preparation Manufacturing
+325910,Printing Ink Manufacturing
+325920,Explosives Manufacturing
+325991,Custom Compounding of Purchased Resins
+325992,"Photographic Film, Paper, Plate, and Chemical Manufacturing"
+325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing (except facilities primarily engaged in Aerosol can filling on a job order or contract Basis)
+326111,Plastics Bag and Pouch Manufacturing
+326112,Plastics Packaging Film and Sheet (including Laminated) Manufacturing
+326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing
+326121,Unlaminated Plastics Profile Shape Manufacturing
+326122,Plastics Pipe and Pipe Fitting Manufacturing
+326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+326140,Polystyrene Foam Product Manufacturing
+326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing
+326160,Plastics Bottle Manufacturing
+326191,Plastics Plumbing Fixture Manufacturing
+326199,All Other Plastics Product Manufacturing
+326211,Tire Manufacturing (except Retreading)
+326220,Rubber and Plastics Hoses and Belting Manufacturing
+326291,Rubber Product Manufacturing for Mechanical Use
+326299,All Other Rubber Product Manufacturing
+327110,"Pottery, Ceramics, and Plumbing Fixture Manufacturing"
+327120,Clay Building Material and Refractories Manufacturing
+327211,Flat Glass Manufacturing
+327212,Other Pressed and Blown Glass and Glassware Manufacturing
+327213,Glass Container Manufacturing
+327215,Glass Product Manufacturing Made of Purchased Glass
+327310,Cement Manufacturing
+327320,Ready-Mix Concrete Manufacturing
+327331,Concrete Block and Brick Manufacturing
+327332,Concrete Pipe Manufacturing
+327390,Other Concrete Product Manufacturing
+327410,Lime Manufacturing
+327420,Gypsum Product Manufacturing
+327910,Abrasive Product Manufacturing
+327991,Cut Stone and Stone Product Manufacturing
+327992,Ground or Treated Mineral and Earth Manufacturing
+327993,Mineral Wool Manufacturing
+327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing
+331110,Iron and Steel Mills and Ferroalloy Manufacturing
+331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel
+331221,Rolled Steel Shape Manufacturing
+331222,Steel Wire Drawing
+331313,Alumina Refining and Primary Aluminum Production
+331314,Secondary Smelting and Alloying of Aluminum
+331315,"Aluminum Sheet, Plate, and Foil Manufacturing"
+331318,"Other Aluminum Rolling, Drawing, and Extruding"
+331410,Nonferrous Metal (except Aluminum) Smelting and Refining
+331420,"Copper Rolling, Drawing, Extruding, and Alloying"
+331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"
+331492,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)"
+331511,Iron Foundries
+331512,Steel Investment Foundries
+331513,Steel Foundries (except Investment)
+331523,Nonferrous Metal Die-Casting Foundries
+331524,Aluminum Foundries (except Die-Casting)
+331529,Other Nonferrous Metal Foundries (except Die-Casting)
+332111,Iron and Steel Forging
+332112,Nonferrous Forging
+332114,Custom Roll Forming
+332117,Powder Metallurgy Part Manufacturing
+332119,"Metal Crown, Closure, and Other Metal Stamping (Except Automotive)"
+332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"
+332216,Saw Blade and Hand tool Manufacturing
+332311,Prefabricated Metal Building and Component Manufacturing
+332312,Fabricated Structural Metal Manufacturing
+332313,Plate Work Manufacturing
+332321,Metal Window and Door Manufacturing
+332322,Sheet Metal Work Manufacturing
+332323,Ornamental and Architectural Metal Work Manufacturing
+332410,Power Boiler and Heat Exchanger Manufacturing
+332420,Metal Tank (Heavy Gauge) Manufacturing
+332431,Metal Can Manufacturing
+332439,Other Metal Container Manufacturing
+332510,Hardware Manufacturing
+332613,Spring Manufacturing
+332618,Other Fabricated Wire Product Manufacturing
+332710,Machine Shops
+332721,Precision Turned Product Manufacturing
+332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing"
+332811,Metal Heat Treating
+332812,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+332813,"Electroplating, Plating, Polishing, Anodizing, and Coloring"
+332911,Industrial Valve Manufacturing
+332912,Fluid Power Valve and Hose Fitting Manufacturing
+332913,Plumbing Fixture Fitting and Trim Manufacturing
+332919,Other Metal Valve and Pipe Fitting Manufacturing
+332991,Ball and Roller Bearing Manufacturing
+332992,Small Arms Ammunition Manufacturing
+332993,Ammunition (except Small Arms) Manufacturing
+332994,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing"
+332996,Fabricated Pipe and Pipe Fitting Manufacturing
+332999,All Other Miscellaneous Fabricated Metal Product Manufacturing
+333111,Farm Machinery and Equipment Manufacturing
+333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing
+333120,Construction Machinery Manufacturing
+333131,Mining Machinery and Equipment Manufacturing
+333132,Oil and Gas Field Machinery and Equipment Manufacturing
+333241,Food Product Machinery Manufacturing
+333242,Semiconductor Machinery Manufacturing
+333243,"Sawmill, Woodworking, and Paper Machinery Manufacturing"
+333244,Printing Machinery and Equipment Manufacturing
+333249,Other Industrial Machinery Manufacturing
+333314,Optical Instrument and Lens Manufacturing
+333316,Photographic and Photocopying Equipment Manufacturing
+333318,Other Commercial and Service Industry Machinery Manufacturing
+333413,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing
+333414,Heating Equipment (except Warm Air Furnaces) Manufacturing
+333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing
+333511,Industrial Mold Manufacturing
+333514,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing"
+333515,Cutting Tool and Machine Tool Accessory Manufacturing
+333517,Machine Tool Manufacturing
+333519,Rolling Mill and Other Metalworking Machinery Manufacturing
+333611,Turbine and Turbine Generator Set Units Manufacturing
+333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing"
+333613,Mechanical Power Transmission Equipment Manufacturing
+333618,Other Engine Equipment Manufacturing
+333912,Air and Gas Compressor Manufacturing
+333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing"
+333921,Elevator and Moving Stairway Manufacturing
+333922,Conveyor and Conveying Equipment Manufacturing
+333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing"
+333924,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing"
+333991,Power-Driven Handtool Manufacturing
+333992,Welding and Soldering Equipment Manufacturing
+333993,Packaging Machinery Manufacturing
+333994,Industrial Process Furnace and Oven Manufacturing
+333995,Fluid Power Cylinder and Actuator Manufacturing
+333996,Fluid Power Pump and Motor Manufacturing
+333997,Scale and Balance Manufacturing
+333999,All Other Miscellaneous General Purpose Machinery Manufacturing
+334111,Electronic Computer Manufacturing
+334112,Computer Storage Device Manufacturing
+334118,Computer Terminal and Other Computer Peripheral Equipment Manufacturing
+334210,Telephone Apparatus Manufacturing
+334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+334290,Other Communications Equipment Manufacturing
+334310,Audio and Video Equipment Manufacturing
+334412,Bare Printed Circuit Board Manufacturing
+334413,Semiconductor and Related Device Manufacturing
+334416,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing"
+334417,Electronic Connector Manufacturing
+334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing
+334419,Other Electronic Component Manufacturing
+334510,Electromedical and Electrotherapeutic Apparatus Manufacturing
+334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing"
+334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use"
+334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
+334514,Totalizing Fluid Meter and Counting Device Manufacturing
+334515,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals
+334516,Analytical Laboratory Instrument Manufacturing
+334517,Irradiation Apparatus Manufacturing
+334519,Other Measuring and Controlling Device Manufacturing
+334613,Blank Magnetic and Optical Recording Media Manufacturing
+334614,"Software and Other Prerecorded Compact Disc, Tape and Record Reproducing (except facilities primarily engaged in mass reproducing pre-recorded Video Cassettes, and mass reproducing Video tape or disk)"
+335110,Electric Lamp Bulb and Part Manufacturing
+335121,Residential Electric Lighting Fixture Manufacturing
+335122,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing"
+335129,Other Lighting Equipment Manufacturing
+335210,Small Electrical Appliance Manufacturing
+335220,Major Household Appliance Manufacturing
+335311,"Power, Distribution, and Specialty Transformer Manufacturing"
+335312,Motor and Generator Manufacturing (except facilities primarily engaged in armature rewinding on a factory basis)
+335313,Switchgear and Switchboard Apparatus Manufacturing
+335314,Relay and Industrial Control Manufacturing
+335911,Storage Battery Manufacturing
+335912,Primary Battery Manufacturing
+335921,Fiber Optic Cable Manufacturing
+335929,Other Communication and Energy Wire Manufacturing
+335931,Current-Carrying Wiring Device Manufacturing
+335932,Noncurrent-Carrying Wiring Device Manufacturing
+335991,Carbon and Graphite Product Manufacturing
+335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing
+336111,Automobile Manufacturing
+336112,Light Truck and Utility Vehicle Manufacturing
+336120,Heavy Duty Truck Manufacturing
+336211,Motor Vehicle Body Manufacturing
+336212,Truck Trailer Manufacturing
+336213,Motor Home Manufacturing
+336214,Travel Trailer and Camper Manufacturing
+336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+336320,Motor Vehicle Electrical and Electronic Equipment Manufacturing
+336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing
+336340,Motor Vehicle Brake System Manufacturing
+336350,Motor Vehicle Transmission and Power Train Parts Manufacturing
+336360,Motor Vehicle Seating and Interior Trim Manufacturing
+336370,Motor Vehicle Metal Stamping
+336390,Motor Vehicle Parts Manufacturing
+336411,Aircraft Manufacturing
+336412,Aircraft Engine and Engine Parts Manufacturing
+336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing
+336414,Guided Missile and Space Vehicle Manufacturing
+336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing
+336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing
+336510,Railroad Rolling Stock Manufacturing
+336611,Ship Building and Repairing
+336612,Boat Building
+336991,"Motorcycle, Bicycle, and Parts Manufacturing"
+336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing"
+336999,All Other Transportation Equipment Manufacturing
+337110,Wood Kitchen Cabinet and Countertop Manufacturing (except facilities primarily engaged in the retail sale of household furniture and that manufacture custom wood kitchen cabinets and counter tops)
+337121,Upholstered Household Furniture Manufacturing (except facilities primarily engaged in the retail sale of household furniture and that manufacture custom made upholstered household furniture)
+337122,"Non-upholstered Wood Household Furniture Manufacturing (except facilities primarily engaged in the retail sale of household furniture and that manufacture non-upholstered, household type, custom wood furniture)"
+337124,Metal Household Furniture Manufacturing
+337125,Household Furniture (except Wood and Metal) Manufacturing
+337127,Institutional Furniture Manufacturing
+337211,Wood Office Furniture Manufacturing
+337212,Custom Architectural Woodwork and Millwork Manufacturing
+337214,Office Furniture (except Wood) Manufacturing
+337215,"Showcase, Partition, Shelving, and Locker Manufacturing"
+337910,Mattress Manufacturing
+337920,Blind and Shade Manufacturing
+339112,Surgical and Medical Instrument Manufacturing
+339113,Surgical Appliance and Supplies Manufacturing (except facilities primarily engaged in manufacturing orthopedic devices to prescription in a retail environment)
+339114,Dental Equipment and Supplies Manufacturing
+339115,Ophthalmic Goods Manufacturing (except lens grinding facilities that are primarily engaged in the retail sale of eyeglasses and contact lenses to prescription for individuals)
+339910,Jewelry and Silverware Manufacturing
+339912,Silverware and Hollowware Manufacturing
+339913,Jewelers’ Material and Lapidary Work Manufacturing
+339914,Costume Jewelry and Novelty Manufacturing
+339920,Sporting and Athletic Goods Manufacturing
+339930,"Doll Toy, and Game Manufacturing"
+339932,"Game, Toy, and Children’s Vehicle Manufacturing"
+339940,Office Supplies (except Paper) Manufacturing
+339942,Lead Pencil and Art Goods Manufacturing
+339943,Marking Device Manufacturing
+339944,Carbon Paper and Inked Ribbon Manufacturing
+339950,Sign Manufacturing
+339991,"Gasket, Packing, and Sealing Device Manufacturing"
+339992,Musical Instrument Manufacturing
+339993,"Fastener, Button, Needle, and Pin Manufacturing"
+339994,"Broom, Brush, and Mop Manufacturing"
+339995,Burial Casket Manufacturing
+339999,All Other Miscellaneous Manufacturing
+424690,Other Chemical and Allied Products Merchant Wholesalers
+424710,Petroleum Bulk Stations and Terminals
+425110,"Business to Business Electronic Markets (limited to facilities previously classified in 5169, Chemicals and Allied Products, NEC)"
+425120,"Wholesale Trade Agents and Brokers (limited to facilities previously classified in 5169, Chemicals and Allied Products, NEC)"
+488390,Other Support Activities for Water Transportation (limited to facilities that are primarily engaged in providing routine repair and maintenance of ships and boats from floating drydocks)
+511110,Newspaper Publishers
+511120,Periodical Publishers
+511130,Book Publishers
+511140,"Directory and Mailing List Publishers (except Facilities that are primarily engaged in furnishing services for direct mail advertising including address list compilers, address list publishers, address list publishers and printing combined, address list publishing, business directory publishers, catalog of collections publishers, catalog of collections publishers and printing combined, mailing list compilers, directory compilers, and mailing list compiling services)"
+511191,Greeting Card Publishers
+511199,All Other Publishers
+512230,"Music Publishers (except facilities primarily Engaged in Music copyright authorizing use, Music copyright buying and licensing, and Music publishers working on their own account)"
+512250,Record Production and Distribution
+519130,"Internet Publishing and Broadcasting and Web Search portals (limited to facilities primarily engaged in Internet newspaper publishing, Internet periodical publishing, internet book publishing, Miscellaneous Internet publishing, Internet greeting card publishers except web search portals"
+541713,Research and Development in Nanotechnology
+541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (limited to facilities that are primarily engaged in Guided missile and space vehicle engine research and development, and in Guided missile and space vehicle parts (except engines) research and development)"
+562112,Hazardous Waste Collection (limited to facilities primarily engaged in solvent recovery services on a contract or fee basis)
+562211,"Hazardous Waste Treatment and Disposal (limited to facilities regulated under the Resource Conservation and Recovery Act, subtitle C, 42 U.S.C. 6921, et seq.)"
+562212,"Solid Waste Landfill (limited to facilities regulated under the Resource Conservation and Recovery Act, subtitle C, 42 U.S.C. 6921, et seq.)"
+562213,"Solid Waste Combustors and Incinerators (Limited to facilities regulated under the Resource Conservation and Recovery Act, subtitle C, 42 U.S.C. 6921 et seq.)"
+562219,"Other Nonhazardous Waste Treatment and Disposal (Limited to facilities regulated under the Resource Conservation and Recovery Act, subtitle C, 42 U.S.C. 6921 et seq.)"
+562920,"Materials Recovery Facilities (Limited to facilities regulated under the Resource Conservation and Recovery Act, subtitle C, 42 U.S.C. 6921 et seq.)"
+811490,"Other Personal and Household Goods Repair and Maintenance (limited to facilities that are primarily engaged in repairing and servicing pleasure and sail boats without retailing new boats (previously classified under SIC 3732, Boat Building and Repairing (pleasure boat building)"
