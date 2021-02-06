@@ -7,30 +7,31 @@ import pydeck as pdk
 def map2(df, lat, lon, zoom) :
     column_layer = pdk.Layer(
         "ColumnLayer",
-        id='map2_col_lyr',
         data=df,
         get_position=['Longitude', 'Latitude'],
         get_elevation='WATER_TOTAL_RELEASE',
-        tooltip = {
-                    "html": "<b>Value:</b> try typing a whole lot of stuff and see if that will help this show up {STATE_CODE} somewhere on the map and then keep typing <br/>",
-                    "style": {
-                        "backgroundColor": "steelblue",
-                        "color": "white"}
-                },
-        auto_highlight=True,
+        #elevation_scale=100,
+        radius=5000,
         pickable=True,
-        radius=5000)
+        auto_highlight=True,
+        )
+
+    tooltip = {
+        "html": "<b> {tooltip_fld} </b>",
+        "style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"},
+    }
 
     m2_deck = pdk.Deck(
-    #st.write(pdk.Deck(
         column_layer,
-        map_style="mapbox://styles/mapbox/light-v9",
         initial_view_state={
             "latitude": lat,
             "longitude": lon,
             "zoom": zoom,
             "pitch": 20,
-        }
+        },
+        tooltip=tooltip,
+        map_provider='mapbox',
+        map_style="mapbox://styles/mapbox/light-v9",
         )
     st.pydeck_chart(m2_deck)
 
@@ -48,7 +49,7 @@ def map1(lat, lon, zoom) :
         }))
 
 def display_page_intro() :
-    map1(use_lat, use_lon, 3.1)
+    #map1(use_lat, use_lon, 3.1)
     gl_tot_str = """
     ## Some Starting Facts
     - Year: 2020
@@ -69,17 +70,14 @@ def display_page_air() :
     """
 
     st.markdown(gl_tri_str)
-
     st_yr_2019_df = pd.read_csv("Data/st_yr_2019.csv")
-#    rls_complt_raw = pd.read_csv("Data/releases_complete2.CSV")
-#    use_columns = ['REPORTING_YEAR', 'STATE_ABBR', 'TOTAL_ON_OFF_SITE_RELEASE', 'WATER_TOTAL_RELEASE', 'LAND_TOTAL_RELEASE']
-#    st_yr = rls_complt_raw[use_columns].groupby(['REPORTING_YEAR', 'STATE_ABBR'], as_index=False).sum()
-#    
-    st_lat_lon = pd.read_csv("Data/state_lat_lon.csv")
-    st_yr_2019_lat_lon = st_yr_2019_df.merge(st_lat_lon, left_on='STATE_ABBR', right_on='State_Abbr')
-    
-    map2(st_yr_2019_lat_lon, use_lat, use_lon, 3)
-    #st.write(st_yr_lat_lon.shape)
+    #st_lat_lon = pd.read_csv("Data/state_lat_lon.csv")
+    #st_yr_2019_lat_lon = st_yr_2019_df.merge(st_lat_lon, left_on='STATE_ABBR', 
+    #                                         right_on='State_Abbr')
+    #st.write(st_yr_2019_df.columns)
+    #st.write(st_yr_2019_lat_lon.columns)
+    #time.sleep(20)
+    map2(st_yr_2019_df, use_lat, use_lon, 3)
     return
 
 def display_page_water() :
@@ -128,10 +126,6 @@ ctr_of_us_lat = 31.51073
 use_lat = 34.51073
 ctr_of_us_lon = -96.4247
 use_lon = -97.4247
-
-event_loop = True
-ctr = 1
-#while event_loop :
 
 # Need to validate TRI acronym
 st.title('Visualizing the EPA Toxic Releases Inventory (TRI) v2')
