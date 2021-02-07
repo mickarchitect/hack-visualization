@@ -189,6 +189,12 @@ def display_page_tri_naics() :
 
 ######################################################################
 # Main
+#
+# Later
+#   State View, with Year Comparison Time Lapse
+#   State View, with all facilities/releases instead of totals
+#        Sankey diagrams at the bottom of this one for sure, think about others
+#   Time Slice some of the larger incidents?
 ######################################################################
 
 page = st.sidebar.radio('Select page:', ['Introduction', 
