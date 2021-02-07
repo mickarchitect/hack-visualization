@@ -10,6 +10,10 @@ __pycache__/
 *~
 *swp
 
+# Skip the yearly data
+Data/years/*
+Data/all_years_rows_cols.CSV
+
 # Distribution / packaging
 .Python
 build/
